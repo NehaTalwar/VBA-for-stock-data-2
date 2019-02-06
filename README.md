@@ -1,4 +1,4 @@
-# VBA-homework-moderate
+# VBA
 Create a For loop in VBA in the multiple year stock data to gain information.
 Create a script that will loop through all the stocks and take the following info.
 
